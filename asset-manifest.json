@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YouTube-API-app/static/css/main.12338f81.chunk.css",
+    "main.js": "/YouTube-API-app/static/js/main.188cdb1d.chunk.js",
+    "main.js.map": "/YouTube-API-app/static/js/main.188cdb1d.chunk.js.map",
+    "runtime-main.js": "/YouTube-API-app/static/js/runtime-main.56c6678d.js",
+    "runtime-main.js.map": "/YouTube-API-app/static/js/runtime-main.56c6678d.js.map",
+    "static/js/2.71ea4311.chunk.js": "/YouTube-API-app/static/js/2.71ea4311.chunk.js",
+    "static/js/2.71ea4311.chunk.js.map": "/YouTube-API-app/static/js/2.71ea4311.chunk.js.map",
+    "index.html": "/YouTube-API-app/index.html",
+    "precache-manifest.cd7d378fbcf9c3e46eaf0570b92b3c7a.js": "/YouTube-API-app/precache-manifest.cd7d378fbcf9c3e46eaf0570b92b3c7a.js",
+    "service-worker.js": "/YouTube-API-app/service-worker.js",
+    "static/css/main.12338f81.chunk.css.map": "/YouTube-API-app/static/css/main.12338f81.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56c6678d.js",
+    "static/js/2.71ea4311.chunk.js",
+    "static/css/main.12338f81.chunk.css",
+    "static/js/main.188cdb1d.chunk.js"
+  ]
+}
