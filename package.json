@@ -1,6 +1,6 @@
 {
-  "homepage": "https://brewno88.github.io/YouTube-API-app",
-  "name": "YouTube-API-App",
+  "homepage": "https://brewno88.github.io/youtube-api-app",
+  "name": "youtube-api-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
