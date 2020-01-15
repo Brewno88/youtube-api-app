@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/YouTube-API-app/static/css/main.12338f81.chunk.css",
-    "main.js": "/YouTube-API-app/static/js/main.6993e428.chunk.js",
-    "main.js.map": "/YouTube-API-app/static/js/main.6993e428.chunk.js.map",
-    "runtime-main.js": "/YouTube-API-app/static/js/runtime-main.cae03706.js",
-    "runtime-main.js.map": "/YouTube-API-app/static/js/runtime-main.cae03706.js.map",
-    "static/js/2.777dba45.chunk.js": "/YouTube-API-app/static/js/2.777dba45.chunk.js",
-    "static/js/2.777dba45.chunk.js.map": "/YouTube-API-app/static/js/2.777dba45.chunk.js.map",
-    "index.html": "/YouTube-API-app/index.html",
-    "precache-manifest.699b5110d791985df8651b66eeca4d8b.js": "/YouTube-API-app/precache-manifest.699b5110d791985df8651b66eeca4d8b.js",
-    "service-worker.js": "/YouTube-API-app/service-worker.js",
-    "static/css/main.12338f81.chunk.css.map": "/YouTube-API-app/static/css/main.12338f81.chunk.css.map",
-    "static/js/2.777dba45.chunk.js.LICENSE": "/YouTube-API-app/static/js/2.777dba45.chunk.js.LICENSE"
+    "main.css": "/youtube-api-app/static/css/main.12338f81.chunk.css",
+    "main.js": "/youtube-api-app/static/js/main.a711ce34.chunk.js",
+    "main.js.map": "/youtube-api-app/static/js/main.a711ce34.chunk.js.map",
+    "runtime-main.js": "/youtube-api-app/static/js/runtime-main.fbb41f11.js",
+    "runtime-main.js.map": "/youtube-api-app/static/js/runtime-main.fbb41f11.js.map",
+    "static/js/2.41f6770f.chunk.js": "/youtube-api-app/static/js/2.41f6770f.chunk.js",
+    "static/js/2.41f6770f.chunk.js.map": "/youtube-api-app/static/js/2.41f6770f.chunk.js.map",
+    "index.html": "/youtube-api-app/index.html",
+    "precache-manifest.afae38f50516ffbbe86328202572cfe1.js": "/youtube-api-app/precache-manifest.afae38f50516ffbbe86328202572cfe1.js",
+    "service-worker.js": "/youtube-api-app/service-worker.js",
+    "static/css/main.12338f81.chunk.css.map": "/youtube-api-app/static/css/main.12338f81.chunk.css.map",
+    "static/js/2.41f6770f.chunk.js.LICENSE": "/youtube-api-app/static/js/2.41f6770f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.cae03706.js",
-    "static/js/2.777dba45.chunk.js",
+    "static/js/runtime-main.fbb41f11.js",
+    "static/js/2.41f6770f.chunk.js",
     "static/css/main.12338f81.chunk.css",
-    "static/js/main.6993e428.chunk.js"
+    "static/js/main.a711ce34.chunk.js"
   ]
 }
