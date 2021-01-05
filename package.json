@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://brewno88.github.io/youtube-api-app",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.3.0",
